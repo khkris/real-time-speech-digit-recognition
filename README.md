@@ -1,6 +1,5 @@
 # real-time-speech-digit-recognition
-The project aims to predict the digit spoken by a user into a microphone in real time. 
-The project on Recurrent Neural Networks to process Sequential Data using `Python 3.6.3` `Keras` and `PyAudio 0.2.11`. 
+The project aims to predict the digit spoken by a user into a microphone in real time and uses Recurrent Neural Networks to process Sequential Data using `Python 3.6.3` `Keras` and `PyAudio 0.2.11`. 
 
 # Description
 This original model consists of LSTM(Long-Short Term Memory) layers along with Fully Connected layers with a Softmax Output.
